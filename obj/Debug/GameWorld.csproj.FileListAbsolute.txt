@@ -1,0 +1,15 @@
+F:\Downloads\Applications\Sega HARDlight\Code\Submission\bin\Debug\GameWorld.exe.config
+F:\Downloads\Applications\Sega HARDlight\Code\Submission\bin\Debug\GameWorld.exe
+F:\Downloads\Applications\Sega HARDlight\Code\Submission\bin\Debug\GameWorld.pdb
+F:\Downloads\Applications\Sega HARDlight\Code\Submission\obj\Debug\GameWorld.csprojAssemblyReference.cache
+F:\Downloads\Applications\Sega HARDlight\Code\Submission\obj\Debug\Src\MainWindow.g.cs
+F:\Downloads\Applications\Sega HARDlight\Code\Submission\obj\Debug\Src\App.g.cs
+F:\Downloads\Applications\Sega HARDlight\Code\Submission\obj\Debug\GameWorld_MarkupCompile.cache
+F:\Downloads\Applications\Sega HARDlight\Code\Submission\obj\Debug\GameWorld_MarkupCompile.lref
+F:\Downloads\Applications\Sega HARDlight\Code\Submission\obj\Debug\Src\MainWindow.baml
+F:\Downloads\Applications\Sega HARDlight\Code\Submission\obj\Debug\GameWorld.g.resources
+F:\Downloads\Applications\Sega HARDlight\Code\Submission\obj\Debug\GameWorld.Properties.Resources.resources
+F:\Downloads\Applications\Sega HARDlight\Code\Submission\obj\Debug\GameWorld.csproj.GenerateResource.cache
+F:\Downloads\Applications\Sega HARDlight\Code\Submission\obj\Debug\GameWorld.csproj.CoreCompileInputs.cache
+F:\Downloads\Applications\Sega HARDlight\Code\Submission\obj\Debug\GameWorld.exe
+F:\Downloads\Applications\Sega HARDlight\Code\Submission\obj\Debug\GameWorld.pdb
